@@ -11,7 +11,7 @@ import re
 __info__ = {
 	'title': "Download all images from a web page",
     'description': "Downloadall images from a web page",
-    'url': "https://github.com/TonkWorks/download_images_from_a_website/archive/master.zip", 
+    'url': "http://github.com/TonkWorks/download_images_from_a_website/archive/master.zip", 
 	'author': "Kevin Dagostino",
     'input': [
         {
